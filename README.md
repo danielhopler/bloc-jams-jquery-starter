@@ -43,4 +43,4 @@
 * I can click and drag the volume slider to adjust the volume.
 
 ## Screenshot of Landing Page
-![landing](/Users/danielhopler/my-bloc/bloc-jams-jquery/assets/images/blocjams.png)
+![landing](assets/images/blocjams.png)
