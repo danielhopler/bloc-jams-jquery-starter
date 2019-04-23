@@ -42,5 +42,7 @@
 * I see a slider that shows the player's current volume.
 * I can click and drag the volume slider to adjust the volume.
 
+## Deployed with Netlify
+[Bloc Jams Site](https://djhjams.netlify.com/)
 ## Screenshot of Landing Page
 ![landing](assets/images/blocjams.png)
